@@ -1,0 +1,6 @@
+{
+  "name": "RIYA",
+  "description": "Your Personal AI Assistant - Smart, Helpful, Creative & Always With You",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
